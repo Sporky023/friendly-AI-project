@@ -10,3 +10,5 @@ This document implies dependencies only insofar as each step's dependencies shou
 [ ] Develop prototype systems and apply these tests to them.  Refactor tests as necessary in the case we find that some requirement is not specified in the tests.
 
 [ ] Continue refactoring prototypes until we have a system which passes both the intelligence tests and friendliness tests.  
+
+testing edit features.
